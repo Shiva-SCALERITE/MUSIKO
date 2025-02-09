@@ -5,7 +5,7 @@ MUSIKO is a music streaming web app that allows users to search for songs, play 
 
 
 🚀 Features
-   ---------
+-
 
 -> Search Songs: Find your favorite tracks using the Deezer API.
 
@@ -19,6 +19,7 @@ MUSIKO is a music streaming web app that allows users to search for songs, play 
 
 
 📌 How to Use
+-
 
 1️⃣ Enable CORS Access
 
@@ -37,12 +38,14 @@ Start searching for songs and enjoy the music! 🎧
 
 
 📂 Project Structure
+-
 
 ![image](https://github.com/user-attachments/assets/6ef44a90-3c13-4804-8685-37d504900cde)
 
 
 
 ⚙️ Technologies Used
+-
 
 -> HTML, CSS, JavaScript
 
@@ -54,6 +57,7 @@ Start searching for songs and enjoy the music! 🎧
 
 
 💡 What I Learned
+-
 
 -> Using APIs with async/await
 
@@ -67,6 +71,7 @@ Start searching for songs and enjoy the music! 🎧
 
 
 🎯 Future Improvements
+-
 
 🚀 Features planned for future updates:
 
@@ -80,6 +85,7 @@ Start searching for songs and enjoy the music! 🎧
 
 
 👏 Credits
+-
 
 Built with ❤️ as a learning project.
 
@@ -87,3 +93,4 @@ Music data powered by Deezer API.
 
 
 🔥 Enjoy Your Music Journey with MUSIKO! 🎶
+-
