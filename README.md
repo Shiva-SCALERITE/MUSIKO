@@ -48,22 +48,33 @@ Local Storage API (for storing recent tracks)
 CORS Anywhere Proxy (for handling cross-origin requests)
 
 💡 What I Learned
+
 Using APIs with async/await
+
 Managing local storage efficiently
+
 DOM manipulation for dynamic UI updates
+
 Handling CORS issues in web applications
+
 Building an engaging user interface
 
 🎯 Future Improvements
+
 🚀 Features planned for future updates:
 
 User Authentication (Save personal playlists)
+
 Full Song Playback (If API permits)
+
 Dark Mode 🎭
+
 Offline Support
 
 👏 Credits
+
 Built with ❤️ as a learning project.
+
 Music data powered by Deezer API.
 
 🔥 Enjoy Your Music Journey with MUSIKO! 🎶
