@@ -17,7 +17,9 @@ MUSIKO is a music streaming web app that allows users to search for songs, play 
 
 -> Interactive UI: Dynamic DOM manipulation for a seamless experience.
 
-🌍 **Live Website:** [🔗 Click Here](https://musiko-3-xbpi-2cry6tj8d-shiva-guptas-projects-cc0b8aa0.vercel.app/) 🚀  
+🌍 **Live Website:** 
+-
+[🔗 Click Here](https://musiko-3-xbpi-2cry6tj8d-shiva-guptas-projects-cc0b8aa0.vercel.app/) 🚀  
 
 📌 How to Use
 -
