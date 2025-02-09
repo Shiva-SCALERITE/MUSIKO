@@ -33,7 +33,8 @@ Start searching for songs and enjoy the music! 🎧
 
 📂 Project Structure
 
-![image](https://github.com/user-attachments/assets/e3d31c3c-3b9e-494c-aaa5-029f2641689d)
+![image](https://github.com/user-attachments/assets/6ef44a90-3c13-4804-8685-37d504900cde)
+
 
 
 ⚙️ Technologies Used
@@ -45,3 +46,24 @@ Deezer API (for music data)
 Local Storage API (for storing recent tracks)
 
 CORS Anywhere Proxy (for handling cross-origin requests)
+
+💡 What I Learned
+Using APIs with async/await
+Managing local storage efficiently
+DOM manipulation for dynamic UI updates
+Handling CORS issues in web applications
+Building an engaging user interface
+
+🎯 Future Improvements
+🚀 Features planned for future updates:
+
+User Authentication (Save personal playlists)
+Full Song Playback (If API permits)
+Dark Mode 🎭
+Offline Support
+
+👏 Credits
+Built with ❤️ as a learning project.
+Music data powered by Deezer API.
+
+🔥 Enjoy Your Music Journey with MUSIKO! 🎶
