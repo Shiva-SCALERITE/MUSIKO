@@ -17,9 +17,6 @@ MUSIKO is a music streaming web app that allows users to search for songs, play 
 
 -> Interactive UI: Dynamic DOM manipulation for a seamless experience.
 
-🌍 **Live Website:** 
--
-LINK--> [🔗 Click Here](https://musiko-3-xbpi-2cry6tj8d-shiva-guptas-projects-cc0b8aa0.vercel.app/) 🚀  
 
 📌 How to Use
 -
@@ -39,6 +36,9 @@ Open index.html in your browser.
 
 Start searching for songs and enjoy the music! 🎧
 
+🌍 **Live Website:** 
+-
+LINK--> [🔗 Click Here](https://musiko-3-xbpi-2cry6tj8d-shiva-guptas-projects-cc0b8aa0.vercel.app/) 🚀  
 
 📂 Project Structure
 -
