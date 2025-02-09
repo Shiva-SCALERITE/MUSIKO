@@ -4,15 +4,15 @@ MUSIKO is a music streaming web app that allows users to search for songs, play 
 
 🚀 Features
 
-Search Songs: Find your favorite tracks using the Deezer API.
+-> Search Songs: Find your favorite tracks using the Deezer API.
 
-Play Music: Click on a track to play a preview.
+-> Play Music: Click on a track to play a preview.
 
-Featured Tracks: Explore top music.
+-> Featured Tracks: Explore top music.
 
-Recently Played: Keep track of the last 5 songs played using Local Storage API.
+-> Recently Played: Keep track of the last 5 songs played using Local Storage API.
 
-Interactive UI: Dynamic DOM manipulation for a seamless experience.
+-> Interactive UI: Dynamic DOM manipulation for a seamless experience.
 
 📌 How to Use
 
@@ -39,37 +39,37 @@ Start searching for songs and enjoy the music! 🎧
 
 ⚙️ Technologies Used
 
-HTML, CSS, JavaScript
+-> HTML, CSS, JavaScript
 
-Deezer API (for music data)
+-> Deezer API (for music data)
 
-Local Storage API (for storing recent tracks)
+-> Local Storage API (for storing recent tracks)
 
-CORS Anywhere Proxy (for handling cross-origin requests)
+-> CORS Anywhere Proxy (for handling cross-origin requests)
 
 💡 What I Learned
 
-Using APIs with async/await
+-> Using APIs with async/await
 
-Managing local storage efficiently
+-> Managing local storage efficiently
 
-DOM manipulation for dynamic UI updates
+-> DOM manipulation for dynamic UI updates
 
-Handling CORS issues in web applications
+-> Handling CORS issues in web applications
 
-Building an engaging user interface
+-> Building an engaging user interface
 
 🎯 Future Improvements
 
 🚀 Features planned for future updates:
 
-User Authentication (Save personal playlists)
+-> User Authentication (Save personal playlists)
 
-Full Song Playback (If API permits)
+-> Full Song Playback (If API permits)
 
-Dark Mode 🎭
+-> Dark Mode 🎭
 
-Offline Support
+-> Offline Support
 
 👏 Credits
 
