@@ -3,7 +3,8 @@ MUSIKO 🎵
 MUSIKO is a music streaming web app that allows users to search for songs, play tracks, explore featured tracks, and view recently played tracks using the Deezer API. The project dynamically updates the UI, providing an interactive and engaging experience for music lovers.
 
 
-🚀 <u>Features</u>
+🚀 Features
+   ---------
 
 -> Search Songs: Find your favorite tracks using the Deezer API.
 
