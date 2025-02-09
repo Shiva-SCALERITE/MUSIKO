@@ -95,7 +95,6 @@ function createPlaylistCard(playlist) {
   div.addEventListener("click", async () => {
     const fullPlaylist = await api.getPlaylist(playlist.id);
     if (fullPlaylist && fullPlaylist.tracks.data) {
-      z;
       player.setQueue(fullPlaylist.tracks.data);
       player.loadTrack(fullPlaylist.tracks.data[0]);
     }
